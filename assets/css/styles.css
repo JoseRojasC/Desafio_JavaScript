@@ -28,7 +28,7 @@ body {
 
 .card .img-card {
     height: 130px;
-    background-image: url("../img/foryou.png");
+    background-image: url("../image/foryou.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center ;
